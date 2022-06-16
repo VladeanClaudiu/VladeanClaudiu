@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Claudiu, i am 26 years old currently (22/03/2022).
 - 👀 I’m interested in front end development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on anything i am skilled enough to work on :)
 - 📫 My email is Claudiuver1.0@gmail.com
 

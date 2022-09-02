@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Claudiu, i am 26 years old currently (22/03/2022).
+- 👋 Hi, I’m Claudiu, i am 26 years old.
 - 👀 I’m interested in front end development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on anything i am skilled enough to work on :)

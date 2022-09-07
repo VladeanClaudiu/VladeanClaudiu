@@ -24,7 +24,7 @@
 ## Contat
  💞️ I’m looking to collaborate on anything i am skilled enough to work on :) <br>
  📫 Email: claudiuver1.0@gmail.com <br>
- <a href=""> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a></li>
+ <a href="https://www.linkedin.com/in/claudiu-vladean-652614191/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a></li>
 
  
  

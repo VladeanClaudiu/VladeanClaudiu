@@ -69,7 +69,7 @@
 - **2022** The Frontend Developer Career Path, Scrimba
  
 ## Contat
- 💞️ I’m looking to collaborate on anything i am skilled enough to work on :) <br>
+ 🤝 I’m looking to collaborate on anything i am skilled enough to work on 😃 <br>
  📫 Email: claudiuver1.0@gmail.com <br>
  🔗 LinkedIn: https://www.linkedin.com/in/claudiu-vladean-652614191/
 

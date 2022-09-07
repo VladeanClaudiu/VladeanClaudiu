@@ -62,7 +62,12 @@
 </details>
 
 ## Education:
-
+- **2014** Completed my Leaving Cert in Marian College.
+- **2018** Graduated from Iadt with a Bachelor of Science (Computing in Multimedia Systems/Web Engineering) 
+- **2021** Late 2021 started to code again after a long break due to personal reasons
+- **2022** FreeCodeCamp JavaScript Algorithms and Data Structures, freeCodeCamp
+- **2022** The Frontend Developer Career Path, Scrimba
+ 
 ## Contat
  💞️ I’m looking to collaborate on anything i am skilled enough to work on :) <br>
  📫 Email: claudiuver1.0@gmail.com <br>

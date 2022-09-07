@@ -33,7 +33,34 @@
        <li><a href="https://github.com/VladeanClaudiu/WorkingWithAPI/tree/main/API-ColorGenerator">Color scheme generator (API)</a></li>
     </ul>
   </blockquote>
-</details> 
+</details>
+
+<details>
+  <summary>Client Work</summary>
+  <p><a href="https://coachswilson.pages.dev/">Website </a> created for a personal trainer at my gym, some info on the site may still need to be added but the overall page is completed. The website is static and built with just HTML, CSS and some basic JS.</p>
+  <blockquote>
+    <ul>
+      <li><a href="https://github.com/VladeanClaudiu/SWPTwebsite.github.io">Website for a personal trainer at my gym</a></li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary>Projects built with React</summary>
+  <p>React project setup with <a href="https://vitejs.dev/"> Vite </a> and ran with npm.</p>
+  <blockquote>
+     <ul>
+       <li><a href="https://github.com/VladeanClaudiu/ReactProjects/tree/main/react-quiz-app">Quizzical (React + API)</a></li>
+       <li><a href="https://github.com/VladeanClaudiu/ReactProjects/tree/main/react-travel-journal">Travel Journal (React)</a></li>
+       <li><a href="https://github.com/VladeanClaudiu/ReactProjects/tree/main/react-busi-card">Digital business card (React)</a></li>
+       <li><a href="https://github.com/VladeanClaudiu/ReactProjects/tree/main/react-airbnb-experiences-clone">AirBnb Experiences Clone (React)</a></li>
+       <li><a href="https://github.com/VladeanClaudiu/ReactProjects/tree/main/react-meme-generator">Meme Generator (React + API)</a></li>
+       <li><a href="https://github.com/VladeanClaudiu/ReactProjects/tree/main/tenzi-dice-react">Tenzies Dice Game (React)</a></li>
+       <li><a href="https://github.com/VladeanClaudiu/ReactProjects/tree/main/vite-react-basic-app">Basic React App (React)</a></li>
+    </ul>
+  </blockquote>
+</details>
+
 ## Education:
 
 ## Contat

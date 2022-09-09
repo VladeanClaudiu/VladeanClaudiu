@@ -1,4 +1,4 @@
-##👋 I’m Claudiu. 
+## 👋 I’m Claudiu. 
 
 ### What I do:
 💻 I am a freelance Frontend Developer, I am currenly looking for a permantent Frontend Developer Job,<br>

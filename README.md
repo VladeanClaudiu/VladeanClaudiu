@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Claudiu. I Code 🤗
+# 👋 Hi, I’m Claudiu. I Code 
 
 ## What I do:
 💻 I am a freelance Frontend Developer, I am currenly looking for a permantent Frontend Developer Job,<br>
@@ -69,7 +69,7 @@
 - **2022** The Frontend Developer Career Path, Scrimba
  
 ## Contact
- 🤝 I’m looking to collaborate on anything i am skilled enough to work on 😃 <br>
+ 🤝 I’m looking to collaborate on anything i am skilled enough to work on <br>
  📫 Email: claudiuver1.0@gmail.com <br>
  🔗 LinkedIn: https://www.linkedin.com/in/claudiu-vladean-652614191/
 

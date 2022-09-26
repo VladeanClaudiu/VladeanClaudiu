@@ -2,7 +2,7 @@
 
 ### What I do:
 💻 I am a freelance Frontend Developer, I am currenly looking for a permantent Frontend Developer Job,<br>
-👨‍💻 I am looking for new skills to add to my arsenal and to polish whatever I already possess.
+👨‍💻 I am looking for new skills to add to my arsenal and to polish skills I already possess.
 
 ### Interests:
 💻 I love to code <br>

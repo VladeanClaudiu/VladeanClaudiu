@@ -6,7 +6,7 @@
 
 ### Interests:
 💻 I love to code <br>
-🏋️ Fitness and staying strong <br>
+🏋️ Fitness and staying healthy <br>
 📺 I like to watch Movies and Tv shows <br>
 🎮 I like to game  <br>
 

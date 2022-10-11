@@ -17,7 +17,7 @@
 ### Skills: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Repositories: 
+### Check out some of my projects: 
 <details>
   <summary>Scrimba Projects</summary>
   <p>Throughout the <a href="https://scrimba.com/learn/frontend">Scrimba front-end developer career path</a> you are encouraged to do multiple solo projects. Solo means there will be no guidance or solution to the challenge; only the design and requirements of the projects are given.</p>
@@ -68,7 +68,7 @@
 - **2022** FreeCodeCamp JavaScript Algorithms and Data Structures, freeCodeCamp
 - **2022** The Frontend Developer Career Path, Scrimba
  
-### Contact
+### Get in touch:
  🤝 I’m looking to collaborate on anything i am skilled enough to work on <br>
  📫 Email: claudiuver1.0@gmail.com <br>
  🔗 LinkedIn: https://www.linkedin.com/in/claudiu-vladean-652614191/

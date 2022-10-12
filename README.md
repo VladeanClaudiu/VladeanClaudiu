@@ -62,8 +62,8 @@
 </details>
 
 ### Education:
-- **2014** Completed my Leaving Cert in Marian College.
-- **2018** Graduated from Iadt with a Bachelor of Science (Computing in Multimedia Systems/Web Engineering) 
+- **2014** Completed my Leaving Certificate in Marian College.
+- **2018** Graduated from IADT with a Bachelor of Science (Computing in Multimedia Systems/Web Engineering) 
 - **2021** Late 2021 started to code again after a long break due to personal reasons
 - **2022** FreeCodeCamp JavaScript Algorithms and Data Structures, freeCodeCamp
 - **2022** The Frontend Developer Career Path, Scrimba

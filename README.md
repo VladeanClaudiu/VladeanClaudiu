@@ -36,7 +36,7 @@ I would like to learn Typescript and Python. <br>
 </details>
 
 <details>
-  <summary>Client Work</summary>
+  <summary>Work for clients</summary>
   <p><a href="https://coachswilson.pages.dev/">Website </a> created for a personal trainer at my gym, some info on the site may still need to be added but the overall page is completed. The website is static and built with just HTML, CSS and some basic JS.</p>
   <blockquote>
     <ul>

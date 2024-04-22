@@ -42,7 +42,7 @@ I want to learn Typescript <br>
 
 <details>
   <summary>Work for clients</summary>
-  <p><a href="https://coachswilson.pages.dev/">Website </a> created for a personal trainer at my gym, some info on the site may still need to be added but the overall page is completed. The website is static and built with just HTML, CSS and some basic JS.</p>
+  <p><a href="https://coachswilson.pages.dev/">Website </a> created for a personal trainer at my gym, some info on the site may still need to be added but the overall page is completed. The website is static and built with just HTML, CSS, and some basic JS.</p>
   <blockquote>
     <ul>
       <li><a href="https://github.com/VladeanClaudiu/SWPTwebsite.github.io">Website for a personal trainer at my gym</a></li>
@@ -67,14 +67,14 @@ I want to learn Typescript <br>
 </details>
 
 ### Education:
-- **2014** Completed my Leaving Certificate in Marian College.
+- **2014** Completed my Leaving Certificate at Marian College.
 - **2018** Graduated from IADT with a Bachelor of Science (Computing in Multimedia Systems/Web Engineering) 
 - **2021** Late 2021 started to code again after a long break due to personal reasons
 - **2022** FreeCodeCamp JavaScript Algorithms and Data Structures, freeCodeCamp
 - **2022** The Frontend Developer Career Path, Scrimba
  
 ### Get in touch:
- 🤝 I’m looking to collaborate on anything i am skilled enough to work on <br>
+ 🤝 I’m looking to collaborate on anything I am skilled enough to work on <br>
  📫 Email: claudiuver1.0@gmail.com <br>
  🔗 LinkedIn: https://www.linkedin.com/in/claudiu-vladean-652614191/
 

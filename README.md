@@ -1,18 +1,18 @@
 # 👋 I’m Claudiu. 
 
 ### What I do:
-💻 I am a freelance Frontend Developer, I am currenly looking for a permantent Frontend Developer Job,<br>
-👨‍💻 I am looking for new skills to add to my arsenal and to polish skills I already possess.
+💻 I am a Frontend Developer, and I am currently working at Danu Sports in Dublin,<br>
+👨‍💻 I am looking to learn new things to add to my arsenal and polish my skills.
 
 ### Interests:
 💻 I love to code <br>
 🏋️ Fitness and staying healthy <br>
-📺 I like to watch Movies and Tv shows <br>
+📺 I like to watch Movies and TV shows <br>
 🎮 I like to game  <br>
 
 ### Learning: 
-I'm currently imporving my React.js skills. <br>
-I would like to learn Typescript and Python. <br>
+I'm currently improving my React.js skills and learning Python. <br>
+I want to learn Typescript <br>
 
 ### Skills: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 

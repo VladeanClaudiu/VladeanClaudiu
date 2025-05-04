@@ -21,7 +21,6 @@ I want to learn Typescript <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-#DD1100?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Check out some of my projects: 
 <details>

@@ -1,7 +1,7 @@
 # 👋 I’m Claudiu. 
 
 ### What I do:
-💻 I am a Frontend Developer, and I am currently working at Danu Sports in Dublin,<br>
+💻 I am a Frontend Developer, and I am currently working at Autoaddress in Dublin,<br>
 👨‍💻 I am looking to learn new things to add to my arsenal and polish my skills.
 
 ### Interests:
